@@ -1,0 +1,90 @@
+*{
+	margin: 			0px;
+}
+
+#links {
+	text-align:			center;
+	font-size: 			20px;
+	font-family:		"myriad pro";
+	color:				black;
+}
+
+#linksfacilities {
+	text-align:			center;
+	font-size: 			20px;
+	font-family:		"myriad pro";
+	color:				black;
+}
+
+a:link{
+	color:				black;
+}
+
+a:visited{
+	color:				black;
+}
+
+#info {
+	font-size: 			20px;
+	font-family:		"myriad pro";
+	color:				black;
+	margin-top:			20px;
+	margin-left:		30px;
+	line-height:		30px;
+	margin-right:		400px;
+}
+
+#facilities {
+	margin-left:		30px;
+	margin-right:		30px;
+	margin-top:			30px;
+	margin-bottom:		30px;
+	font-family:		"myriad pro";
+}
+
+th, td {
+   border: 				1px solid black;
+   padding:				10px;
+}
+
+#info h1{
+	font-size: 			20px;
+}
+
+#info p{
+	font-size: 			15px;
+}
+
+#aboutusinfo {
+	margin-left:		30px;
+	margin-right:		30px;
+	margin-top:			30px;
+	margin-bottom:		30px;
+	font-family:		"myriad pro";
+}
+
+#memberships {
+	margin-left:		30px;
+	margin-right:		30px;
+	margin-top:			30px;
+	margin-bottom:		30px;
+	font-family:		"myriad pro";
+}
+
+#footer {
+	background-color: 	black;
+	height:           	75px;
+	padding-top:		20px;
+	padding-bottom:		40px;
+	font-family:		"myriad pro";
+}
+
+#footer h1{
+	margin: 			0 auto;
+	color:				white;
+}
+
+#footer h3{
+	margin: 			0 auto;
+	color:				white;
+}
